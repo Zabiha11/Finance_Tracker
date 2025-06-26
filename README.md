@@ -18,8 +18,11 @@ A simple Python-based Command Line Interface (CLI) application that helps you tr
 finance_tracker/
 │
 ├── main.py               # Main CLI controller
+
 ├── data_entry.py         # Handles user input and validation
+
 ├── finance_data.csv      # CSV file storing all transactions
+
 └── README.md             # Documentation
 
 📦 Requirements
